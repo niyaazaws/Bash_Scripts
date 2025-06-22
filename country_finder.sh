@@ -1,4 +1,15 @@
-#!/bin/env bash
+#!/bin/bash
+
+# Author: Niyaaz Adonis
+# Date Created: 2025/06/22
+# Last modified: 2025/06/22 @ 13:12
+
+# Description: 
+# Find your country via city selection
+
+# Usage:
+# run ./[scriptname]
+
 
 echo "🌍 Welcome to the Country Finder 🌍"
 echo "----------------------------------"
